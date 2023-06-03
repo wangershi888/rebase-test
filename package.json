@@ -1,0 +1,19 @@
+{
+  "name": "rebase-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangershi888/rebase-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangershi888/rebase-test/issues"
+  },
+  "homepage": "https://github.com/wangershi888/rebase-test#readme"
+}
